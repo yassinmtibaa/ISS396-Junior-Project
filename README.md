@@ -48,6 +48,6 @@ Contains unit and integration tests.
 - **Arduino IDE** for compiling and uploading ESP32 firmware.
 - **Libraries** for ESP32, GSM module, GPS, and ultrasonic sensors. You can install these through the Library Manager in Arduino IDE.
 - **3D Modeling Software** (if modifying 3D models).
-- **KiCad** or similar for working with the PCB files.
+- **Altium** or similar for working with the PCB files.
 
 
