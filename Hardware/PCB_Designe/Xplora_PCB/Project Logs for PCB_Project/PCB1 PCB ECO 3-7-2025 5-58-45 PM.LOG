@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=+12 Pin=CN1-1
+Removed Pin From Net: NetName=GND Pin=CN1-2
+Removed Pin From Net: NetName=+5 Pin=CN1-3
+Added Component: Designator=CN1(CONNECTOR_PINHEADER_2.54MM:PINHEADER_1X3)
+Added Pin To Net: NetName=+12 Pin=CN1-1
+Added Pin To Net: NetName=GND Pin=CN1-2
+Added Pin To Net: NetName=+5 Pin=CN1-3
+Change Net Name : Old Net Name=RX0 New Net Name=RXD
+Change Net Name : Old Net Name=TX0 New Net Name=TX

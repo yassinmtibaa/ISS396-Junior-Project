@@ -1,0 +1,4 @@
+Added Component: Designator=CN6(CONNECTOR_PINHEADER_2.54MM:PINHEADER_1X3)
+Added Pin To Net: NetName=+5 Pin=CN6-1
+Added Pin To Net: NetName=GPIO34 Pin=CN6-2
+Added Pin To Net: NetName=GND Pin=CN6-3

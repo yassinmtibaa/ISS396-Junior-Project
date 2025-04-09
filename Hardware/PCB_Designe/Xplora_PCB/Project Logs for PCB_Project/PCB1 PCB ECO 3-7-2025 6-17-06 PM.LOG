@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=+5 Pin=CN2-1
+Removed Pin From Net: NetName=RXD Pin=CN2-2
+Removed Pin From Net: NetName=TX Pin=CN2-3
+Removed Pin From Net: NetName=GND Pin=CN2-4
+Added Component: Designator=CN2(CONNECTOR_2.54_4_PINS)
+Added Pin To Net: NetName=+5 Pin=CN2-1
+Added Pin To Net: NetName=RXD Pin=CN2-2
+Added Pin To Net: NetName=TX Pin=CN2-3
+Added Pin To Net: NetName=GND Pin=CN2-4

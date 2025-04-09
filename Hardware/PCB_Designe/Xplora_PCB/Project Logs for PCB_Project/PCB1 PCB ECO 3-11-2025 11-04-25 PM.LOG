@@ -1,0 +1,82 @@
+Removed Pin From Net: NetName=+12 Pin=CN1-1
+Removed Pin From Net: NetName=GND Pin=CN1-2
+Removed Pin From Net: NetName=+5 Pin=CN1-3
+Removed Pin From Net: NetName=+5 Pin=CN2-1
+Removed Pin From Net: NetName=RX Pin=CN2-2
+Removed Pin From Net: NetName=TX Pin=CN2-3
+Removed Pin From Net: NetName=GND Pin=CN2-4
+Removed Pin From Net: NetName=GND Pin=CN3-1
+Removed Pin From Net: NetName=+12 Pin=CN3-2
+Removed Pin From Net: NetName=+5 Pin=CN5-1
+Removed Pin From Net: NetName=GPIO17 Pin=CN5-3
+Removed Pin From Net: NetName=GPIO16 Pin=CN5-4
+Removed Pin From Net: NetName=GND Pin=CN5-5
+Removed Pin From Net: NetName=+5 Pin=CN6-1
+Removed Pin From Net: NetName=GPIO34 Pin=CN6-2
+Removed Pin From Net: NetName=GND Pin=CN6-3
+Change Component Footprint: Designator=CN3 Old Footprint=CONNECTOR_2.54_2_PINS New Footprint=SAMTEC_BCS-102-F-S-TE
+Change Component Footprint: Designator=CN2 Old Footprint=CONNECTOR_2.54_4_PINS New Footprint=SAMTEC_BCS-104-F-S-TE
+Change Component Footprint: Designator=CN1 Old Footprint=CONNECTOR_PINHEADER_2.54MM:PINHEADER_1X3 New Footprint=SAMTEC_BCS-103-L-S-TE
+Change Component Footprint: Designator=CN6 Old Footprint=CONNECTOR_PINHEADER_2.54MM:PINHEADER_1X3 New Footprint=SAMTEC_BCS-103-L-S-TE
+Change Component Footprint: Designator=CN5 Old Footprint=CONNECTOR_PINHEADER_2.54MM:PINHEADER_1X05_P2.54MM_VERTICAL New Footprint=SAMTEC_BCS-105-F-S-TE
+Change Component Footprint: Designator=CN4 Old Footprint=SAMTEC_SSW-108-XX-X-S New Footprint=SAMTEC_BCS-108-F-S-TE
+Change component parameters: Designator = "CN1" ("CN1"); Footprint = "CONNECTOR_PINHEADER_2.54MM:PINHEADER_1X3"; UniqueID = "\MXBBDDAT" ("\MXBBDDAT")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Samtec"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "BCS-103-L-S-TE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "CN2" ("CN2"); Footprint = "CONNECTOR_2.54_4_PINS"; UniqueID = "\DZZGLPKP" ("\DZZGLPKP")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/BCS-104-F-S-TE/Samtec/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Digi-Key_Part_Number"; Value = "BCS-104-F-S-TE-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Samtec"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "BCS-104-F-S-TE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/BCS-104-F-S-TE/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/BCS-104-F-S-TE/Samtec/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "CN3" ("CN3"); Footprint = "CONNECTOR_2.54_2_PINS"; UniqueID = "\PJMEODYA" ("\PJMEODYA")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Samtec Inc."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "BCS-102-F-S-TE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "CN4" ("CN4"); Footprint = "SAMTEC_SSW-108-XX-X-S"; UniqueID = "\XDLWVRQV" ("\XDLWVRQV")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Samtec"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "BCS-108-F-S-TE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "CN5" ("CN5"); Footprint = "CONNECTOR_PINHEADER_2.54MM:PINHEADER_1X05_P2.54MM_VERTICAL"; UniqueID = "\NEKORZNI" ("\NEKORZNI")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Samtec"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "BCS-105-F-S-TE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "CN6" ("CN6"); Footprint = "CONNECTOR_PINHEADER_2.54MM:PINHEADER_1X3"; UniqueID = "\MHESFAHK" ("\MHESFAHK")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Samtec"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "BCS-103-L-S-TE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+12 Pin=CN1-01
+Added Pin To Net: NetName=GND Pin=CN1-02
+Added Pin To Net: NetName=+5 Pin=CN1-03
+Added Pin To Net: NetName=+5 Pin=CN2-01
+Added Pin To Net: NetName=RX Pin=CN2-02
+Added Pin To Net: NetName=TX Pin=CN2-03
+Added Pin To Net: NetName=GND Pin=CN2-04
+Added Pin To Net: NetName=GND Pin=CN3-01
+Added Pin To Net: NetName=+12 Pin=CN3-02
+Added Pin To Net: NetName=+5 Pin=CN5-01
+Added Pin To Net: NetName=GPIO17 Pin=CN5-03
+Added Pin To Net: NetName=GPIO16 Pin=CN5-04
+Added Pin To Net: NetName=GND Pin=CN5-05
+Added Pin To Net: NetName=+5 Pin=CN6-01
+Added Pin To Net: NetName=GPIO34 Pin=CN6-02
+Added Pin To Net: NetName=GND Pin=CN6-03

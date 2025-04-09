@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=+5 Pin="-1
+Removed Pin From Net: NetName=GPIO15 Pin="-2
+Removed Pin From Net: NetName=GPIO9 Pin="-3
+Removed Pin From Net: NetName=GND Pin="-4
+Added Component: Designator=U2(XCVR_HC-SR04)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "HC-SR04"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5 Pin=U2-1
+Added Pin To Net: NetName=GPIO15 Pin=U2-2
+Added Pin To Net: NetName=GPIO9 Pin=U2-3
+Added Pin To Net: NetName=GND Pin=U2-4

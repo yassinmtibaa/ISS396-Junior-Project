@@ -1,0 +1,5 @@
+Added Component: Designator=CN5(CONNECTOR_PINHEADER_2.54MM:PINHEADER_1X05_P2.54MM_VERTICAL)
+Added Pin To Net: NetName=+5 Pin=CN5-1
+Added Pin To Net: NetName=GPIO17 Pin=CN5-3
+Added Pin To Net: NetName=GPIO16 Pin=CN5-4
+Added Pin To Net: NetName=GND Pin=CN5-5

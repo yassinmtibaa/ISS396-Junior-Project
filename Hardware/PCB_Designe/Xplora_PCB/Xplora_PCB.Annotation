@@ -1,0 +1,24 @@
+[DesignatorManager]
+LogicalDesignator0=U2
+LogicalPartID0=1
+DocumentName0=Sheet1.SchDoc
+ChannelName0=Sheet1
+UniqueID0=\KAQFELPA
+PhysicalDesignator0="
+PhysicalDesignatorLocked0=0
+LogicalDesignator1=CN2
+LogicalPartID1=1
+DocumentName1=Sheet1.SchDoc
+ChannelName1=Sheet1
+UniqueID1=\TCSAEDVJ
+PhysicalDesignator1=CN2
+PhysicalDesignatorLocked1=0
+
+[SheetNumberManager]
+SheetNumberOrder=Display Order
+SheetNumberMethod=Increasing
+DocumentName0=Sheet1.SchDoc
+UniqueIDPath0=
+SheetNumber0=1
+
+

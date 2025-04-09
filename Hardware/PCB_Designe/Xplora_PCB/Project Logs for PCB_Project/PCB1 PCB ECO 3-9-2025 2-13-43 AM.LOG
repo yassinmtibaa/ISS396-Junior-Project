@@ -1,0 +1,4 @@
+Added Component: Designator=CN1(CONNECTOR_PINHEADER_2.54MM:PINHEADER_1X3)
+Added Pin To Net: NetName=+12 Pin=CN1-1
+Added Pin To Net: NetName=GND Pin=CN1-2
+Added Pin To Net: NetName=+5 Pin=CN1-3

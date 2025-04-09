@@ -1,0 +1,6 @@
+Remove Pin=CN4-3 From Net=GPIO18
+Remove Pin=CN4-4 From Net=GPIO19
+Remove Pin=CN4-5 From Net=GPIO21
+Remove Pin=CN4-6 From Net=GPIO23
+Remove Pin=CN4-7 From Net=GPIO5
+Remove Pin=CN4-8 From Net=GPIO22

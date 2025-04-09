@@ -1,0 +1,110 @@
+Added Component: Designator=C1(CAP_4 X 5_PAN)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C2(CAP_4 X 5_PAN)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=CN1(CONNECTOR_PINHEADER_2.54MM:PINHEADER_1X3)
+Added Component: Designator=CN2(CONNECTOR_2.54_4_PINS)
+Added Component: Designator=CN3(CONNECTOR_2.54_2_PINS)
+Added Component: Designator=CN4(PCBComponent_1 - duplicate)
+Added Component: Designator=CN5(CONNECTOR_2.54_4_PINS)
+Added Component: Designator=CN6(CONNECTOR_PINHEADER_2.54MM:PINHEADER_1X3)
+Added Component: Designator=U1(XCVR_HC-SR04)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "HC-SR04"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U2(XCVR_HC-SR04)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "HC-SR04"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U3(MODULE_ESP32-DEVKITC - duplicate)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/ESP32-DEVKITC/Espressif+Systems/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Espressif Systems"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ESP32-DEVKITC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/ESP32-DEVKITC/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ESP32-DEVKITC/Espressif+Systems/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5 Pin=C2-2
+Added Pin To Net: NetName=+5 Pin=CN1-3
+Added Pin To Net: NetName=+5 Pin=CN2-1
+Added Pin To Net: NetName=+5 Pin=CN5-1
+Added Pin To Net: NetName=+5 Pin=CN6-1
+Added Pin To Net: NetName=+5 Pin=U1-1
+Added Pin To Net: NetName=+5 Pin=U2-1
+Added Net: Name=+5
+Added Pin To Net: NetName=+12 Pin=C1-2
+Added Pin To Net: NetName=+12 Pin=CN1-1
+Added Pin To Net: NetName=+12 Pin=CN3-2
+Added Pin To Net: NetName=+12 Pin=CN4-1
+Added Net: Name=+12
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=GND Pin=CN1-2
+Added Pin To Net: NetName=GND Pin=CN2-4
+Added Pin To Net: NetName=GND Pin=CN3-1
+Added Pin To Net: NetName=GND Pin=CN4-2
+Added Pin To Net: NetName=GND Pin=CN5-4
+Added Pin To Net: NetName=GND Pin=CN6-3
+Added Pin To Net: NetName=GND Pin=U1-4
+Added Pin To Net: NetName=GND Pin=U2-4
+Added Net: Name=GND
+Added Pin To Net: NetName=NetCN2_2 Pin=CN2-2
+Added Pin To Net: NetName=NetCN2_2 Pin=U3-34
+Added Net: Name=NetCN2_2
+Added Pin To Net: NetName=NetCN2_3 Pin=CN2-3
+Added Pin To Net: NetName=NetCN2_3 Pin=U3-35
+Added Net: Name=NetCN2_3
+Added Pin To Net: NetName=NetCN4_3 Pin=CN4-3
+Added Pin To Net: NetName=NetCN4_3 Pin=U3-30
+Added Net: Name=NetCN4_3
+Added Pin To Net: NetName=NetCN4_4 Pin=CN4-4
+Added Pin To Net: NetName=NetCN4_4 Pin=U3-31
+Added Net: Name=NetCN4_4
+Added Pin To Net: NetName=NetCN4_5 Pin=CN4-5
+Added Pin To Net: NetName=NetCN4_5 Pin=U3-33
+Added Net: Name=NetCN4_5
+Added Pin To Net: NetName=NetCN4_6 Pin=CN4-6
+Added Pin To Net: NetName=NetCN4_6 Pin=U3-37
+Added Net: Name=NetCN4_6
+Added Pin To Net: NetName=NetCN4_7 Pin=CN4-7
+Added Pin To Net: NetName=NetCN4_7 Pin=U3-29
+Added Net: Name=NetCN4_7
+Added Pin To Net: NetName=NetCN4_8 Pin=CN4-8
+Added Pin To Net: NetName=NetCN4_8 Pin=U3-36
+Added Net: Name=NetCN4_8
+Added Pin To Net: NetName=NetCN5_2 Pin=CN5-2
+Added Pin To Net: NetName=NetCN5_2 Pin=U3-28
+Added Net: Name=NetCN5_2
+Added Pin To Net: NetName=NetCN5_3 Pin=CN5-3
+Added Pin To Net: NetName=NetCN5_3 Pin=U3-27
+Added Net: Name=NetCN5_3
+Added Pin To Net: NetName=NetCN6_2 Pin=CN6-2
+Added Pin To Net: NetName=NetCN6_2 Pin=U3-5
+Added Net: Name=NetCN6_2
+Added Pin To Net: NetName=NetU1_2 Pin=U1-2
+Added Pin To Net: NetName=NetU1_2 Pin=U3-11
+Added Net: Name=NetU1_2
+Added Pin To Net: NetName=NetU1_3 Pin=U1-3
+Added Pin To Net: NetName=NetU1_3 Pin=U3-10
+Added Net: Name=NetU1_3
+Added Pin To Net: NetName=NetU2_2 Pin=U2-2
+Added Pin To Net: NetName=NetU2_2 Pin=U3-15
+Added Net: Name=NetU2_2
+Added Pin To Net: NetName=NetU2_3 Pin=U2-3
+Added Pin To Net: NetName=NetU2_3 Pin=U3-9
+Added Net: Name=NetU2_3
+Added Rule: Name=Schematic Supply Nets
+Added Rule: Name=Schematic Supply Nets_1
+Added Rule: Name=Schematic Supply Nets_2

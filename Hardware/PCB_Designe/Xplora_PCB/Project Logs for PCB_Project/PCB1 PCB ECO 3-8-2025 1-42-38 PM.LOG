@@ -1,0 +1,5 @@
+Added Component: Designator=(CONNECTOR_2.54_4_PINS)
+Added Pin To Net: NetName=+5 Pin=-1
+Added Pin To Net: NetName=RX Pin=-2
+Added Pin To Net: NetName=TX Pin=-3
+Added Pin To Net: NetName=GND Pin=-4

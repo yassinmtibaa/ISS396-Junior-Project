@@ -1,0 +1,24 @@
+Altium Designer Pick and Place Locations
+C:\Users\Public\Documents\Altium\Xplora_PCB\Project Outputs for Xplora_PCB\Pick Place\Pick Place for PCB1.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       03/04/25
+Time:       20:27
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+Designator Comment          Layer    Footprint                        Center-X(mil) Center-Y(mil) Rotation Description                                                                                                                      
+U2         HC-SR04          TopLayer XCVR_HC-SR04                     2084.732      1505.314      0        "Ultrasonic Sensor Module"                                                                                                       
+U3         ESP32-DEVKITC    TopLayer MODULE_ESP32-DEVKITC_-_duplicate 4323.926      2120.478      90       "ESP32-WROOM-32UE series Transceiver; 802.11 b/g/n (Wi-Fi, WiFi, WLAN), Bluetooth ® Smart Ready 4.x Dual Mode Evaluation Board" 
+CN4        "MOTOR DREVER"   TopLayer SAMTEC_BCS-108-F-S-TE            3562.904      3101.630      0        ""                                                                                                                               
+CN6        "CURRENT SENSOR" TopLayer SAMTEC_BCS-103-L-S-TE            1323.870      2225.252      90       ""                                                                                                                               
+CN1        REGULATEUR       TopLayer SAMTEC_BCS-103-L-S-TE            4468.768      3107.434      270      ""                                                                                                                               
+CN3        +12V             TopLayer SAMTEC_BCS-102-F-S-TE            5249.308      3096.728      90       ""                                                                                                                               
+CN5        GSM              TopLayer SAMTEC_BCS-105-F-S-TE            3892.276      1281.288      0        ""                                                                                                                               
+CN2        GPS              TopLayer SAMTEC_BCS-104-F-S-TE            4830.390      1281.288      0        "4 Position Receptacle Connector 0.100 (2.54mm) Through Hole Gold"                                                               
+U1         HC-SR04          TopLayer XCVR_HC-SR04                     2068.966      2822.864      180      "Ultrasonic Sensor Module"                                                                                                       
+C2         ECE-A1CKS100     TopLayer CAP_4_X_5_PAN                    4855.426      3083.520      0        "No Description Available"                                                                                                       
+C1         ECE-A1CKS100     TopLayer CAP_4_X_5_PAN                    4171.586      3118.352      0        "No Description Available"                                                                                                       
