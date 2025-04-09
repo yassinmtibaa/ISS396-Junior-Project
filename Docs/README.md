@@ -14,23 +14,23 @@ This section includes all the visual diagrams that describe the system's archite
 
 #### 2.1 **Block Diagram (Block Diagrams.png)**
 The Block Diagram provides a high-level overview of the system's architecture. It shows the major components of the robot, including the ESP32 microcontroller, sensors, actuators, GPS, GSM, and the mobile app control. This diagram helps visualize how data flows through the system and the interconnections between components.  
-*Created using [iodraw](https://iodraw.io/).*
+*Created using [iodraw](https://app.diagrams.net/).*
 
 #### 2.2 **Circuit Design (circuit design.png)**
 The Circuit Design diagram offers a detailed layout of the electrical connections between the various components, such as the ESP32, ultrasonic sensors, motor drivers, GPS module, and GSM module. It is essential for understanding the wiring and ensuring proper hardware setup.  
-*Created using [CircuitDesigner](https://www.circuitdesigners.com/).*
+*Created using [CircuitDesigner](https://app.cirkitdesigner.com/).*
 
 #### 2.3 **Component Placement (cmp.PNG)**
 The Component Placement diagram shows how the components are arranged on the robot chassis. It includes the positioning of key components such as the ESP32 microcontroller, sensors, motors, and GPS module. This helps in visualizing the physical setup and optimizing component placement.  
-*Created using [Visual Paradigm](https://www.visual-paradigm.com/).*
+*Created using [Visual Paradigm](https://online.visual-paradigm.com/).*
 
 #### 2.4 **Sequence Diagram (sequenceDiagram.png)**
 The Sequence Diagram illustrates the sequence of interactions between system components over time. It helps to understand how the robot operates step by step, such as detecting obstacles, moving forward, and sending alerts when a landmine is detected.  
-*Created using [Visual Paradigm](https://www.visual-paradigm.com/).*
+*Created using [Visual Paradigm](https://online.visual-paradigm.com/).*
 
 #### 2.5 **Use Case Diagram (usecase.PNG)**
 The Use Case Diagram outlines the interactions between users (operator/admin) and the system. It includes functionalities such as manual control of the robot via the mobile app, receiving SMS alerts for landmines, and system configuration.  
-*Created using [Visual Paradigm](https://www.visual-paradigm.com/).*
+*Created using [Visual Paradigm](https://online.visual-paradigm.com/).*
 
 ---
 
