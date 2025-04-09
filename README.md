@@ -62,6 +62,4 @@ Contains unit and integration tests.
 - **Altium** or similar for working with the PCB files.
 - **Blynk App**: Install the Blynk app on your mobile device from the [Google Play Store](https://play.google.com/store/apps/details?id=cc.blynk) or [Apple App Store](https://apps.apple.com/us/app/blynk/id868413436). You will need to set up a Blynk project for controlling the robot in manual mode.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
