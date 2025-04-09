@@ -1,3 +1,4 @@
+# Documentation Folder Overview
 Contains documentation, including component lists, proposals, diagrams, and reports.
 
 - **`Component_List/`**: A detailed list of components used in the project, such as sensors, microcontrollers, and communication modules.
