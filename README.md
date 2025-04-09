@@ -50,7 +50,4 @@ Contains unit and integration tests.
 - **3D Modeling Software** (if modifying 3D models).
 - **KiCad** or similar for working with the PCB files.
 
-### Steps to Set Up
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/Landmine-Detection-Robot.git
+
